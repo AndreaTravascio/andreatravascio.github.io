@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Andrea Travascio - Researcher</title>
+</head>
+<body>
+    <h1>Research Activity</h1>
+    <p>I am an astrophysics researcher focused on the evolution of both galactic and large-scale structures. <br>
+My research interests involve studying the complex and non-linear connection between the nuclear scales of galaxies and their larger-scale environments. <br>
+Indeed, supermassive black holes (SMBHs) at the centers of galaxies can release significant amounts of energy through outflows or collimated plasma jets. These phenomena can influence not only the structure of the host galaxy but also the surrounding large-scale gas reservoirs, where most of the baryonic matter in our universe is located. <br>
+Moreover, the mere presence and properties of these diffuse gas reservoirs are crucial in triggering the accretion of SMBHs. The study of this intricate interplay, which encompasses the cyclical cause-and-effect relationship between feeding and feedback processes, is still in its early stages. <br>
+Innovative methods and multi-wavelength analyses will be necessary to gain a more comprehensive understanding of the processes involved in galactic evolution.</p>
+    <h3>Research Publications</h3>
+    <ul>
+        <li><a href="https://arxiv.org/pdf/2410.03933">X-ray view of a massive node of the Cosmic Web at z~3 I. An exceptional overdensity of rapidly accreting SMBHs. </a></li>
+        <li><a href="https://www.aanda.org/articles/aa/pdf/2024/06/aa49201-24.pdf">MUSE view of PDS 456: Kiloparsec-scale wind, extended ionized gas, and close environment. </a></li>
+        <li><a href="https://arxiv.org/pdf/2107.12403">AGN-Host Interaction in IC 5063. I. Large-scale X-Ray Morphology and Spectral Analysis. </a></li>
+        <li><a href="https://arxiv.org/pdf/2008.11132">Multiple AGN activity during the BCG assembly of XDCPJ0044.0-2033. </a></li>
+        <li><a href="https://www.aanda.org/articles/aa/pdf/2020/03/aa36197-19.pdf">The WISSH quasars project VI. Outflows and metals in the circumgalactic medium around the hyper-luminous $z\sim$3.6 quasar J1538+08. </a></li>
+    </ul>
+    <h3>Contact Information</h3>
+    <p>Email: <a href="mailto:your-email@example.com">travascio.andrea91@gmail.com</a></p>
+</body>
+</html>
